@@ -1,41 +1,81 @@
-body {
-    background-color: blueviolet;
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+.Pizza {
     display: flex;
+    flex-direction: row;
+    align-items: center;
     justify-content: center;
+    gap: 25px;
+    
+    
+}
+.Index{ 
+    background-color: #eecf6d;
+    color: #45050C;
+    
+    display: flex;
     align-items: center;
     flex-direction: column;
+    justify-content: center;
     
 }
+.Tekst{
+    width: 1000px;
+    font-family: 'Lato';
+}
+.Nav {
+    background-color: #F2DB91;
+}
 
-.text {
+.CzymJest{
+    background-color: #d5ac4e;
+    
+    color: #45050C;
     display: flex;
-    height: 325px;
-    width: 750px;
-    
-}
-.add {
-
-    background-color: green;
-    color: #fff;
-    width: 100px;
-    -webkit-text-stroke-width: 0.5px;
-    border-radius: 10px;
-    border-color: #fff;
-}   
-.delete {
-
-    background-color: red;
-    width: 100px;
-    -webkit-text-stroke-width: 0.5px;
-    border-radius: 10px;
-    border-color: #000000;
-
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
 }
 
-.button {
-    margin-bottom: 15px;
-    margin-top: 10px;
+.Nav2{
+    background-color: #E2BE5E;
 }
-.notatki1{
-    color: wheat;
+
+.Historia{
+    background-color: #8B6220;
+    color: #720E07;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
 }
+
+.Nav3{
+    background-color: #B08737;
+}
+
+.Przepis{
+    background-color:#720E07;
+    color: #8B6220;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Nav4{
+    background-color: #79230E;
+}
+
+
+.Rodzaje{
+    background-color: #45050C;
+    color: #d5ac4e;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.Nav5{
+    background-color: #5C0A0A;
+}
+
