@@ -25,6 +25,8 @@
 .Nav {
     background-color: #e5bc35;
     list-style: none;
+    width: 100%;
+    height: 40px;
 
 }
 
@@ -41,6 +43,8 @@
 .Nav2{
     background-color: #E2BE5E;
     list-style: none;
+    width: 100%;
+    height: 40px;
     
 }
 
@@ -56,6 +60,8 @@
 .Nav3{
     background-color: #B08737;
     list-style: none;
+    width: 100%;
+    height: 40px;
 }
 
 .Przepis{
@@ -79,6 +85,8 @@ a{
     background-color: #79230E;
     list-style: none;
 
+    width: 100%;
+    height: 40px;
 }
 
 
@@ -93,6 +101,11 @@ a{
 .Nav5{
     background-color: #5C0A0A;
     list-style: none;
+    width: 100%;
+    height: 40px;
 
 }
 
+.IMG {
+    width: 550px;
+}
