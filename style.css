@@ -24,7 +24,8 @@
 }
 .Nav {
     background-color: #F2DB91;
-    
+    list-style: none;
+
 }
 
 .CzymJest{
@@ -77,7 +78,7 @@ a{
 .Nav4{
     background-color: #79230E;
     list-style: none;
-    color: ;
+
 }
 
 
