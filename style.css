@@ -24,6 +24,7 @@
 }
 .Nav {
     background-color: #F2DB91;
+    
 }
 
 .CzymJest{
@@ -38,6 +39,8 @@
 
 .Nav2{
     background-color: #E2BE5E;
+    list-style: none;
+    
 }
 
 .Historia{
@@ -51,6 +54,7 @@
 
 .Nav3{
     background-color: #B08737;
+    list-style: none;
 }
 
 .Przepis{
@@ -60,10 +64,20 @@
     align-items: center;
     flex-direction: column;
     justify-content: center;
+    
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Lato';
+    color: #f7e4a8;
+
 }
 
 .Nav4{
     background-color: #79230E;
+    list-style: none;
+    color: ;
 }
 
 
@@ -77,5 +91,7 @@
 }
 .Nav5{
     background-color: #5C0A0A;
+    list-style: none;
+
 }
 
